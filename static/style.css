@@ -1,0 +1,18 @@
+.navbar {
+    background-color: #D450EB;
+    font-family: monospace;
+    overflow: hidden;
+}
+
+.navbar a {
+    padding: 12px;
+    font-size: 24px;
+    color: azure;
+    text-decoration: none;
+
+
+}
+
+.navbar a.active {
+    background-color: #65962C;
+}
