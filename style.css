@@ -1,10 +1,10 @@
-.navbar {
+.collapse {
     background-color: #D450EB;
     font-family: monospace;
     overflow: hidden;
 }
 
-.navbar a {
+.collapse a {
     padding: 12px;
     font-size: 24px;
     color: azure;
@@ -13,6 +13,14 @@
 
 }
 
-.navbar a.active {
+.collapse a.active {
     background-color: #65962C;
+}
+
+button {
+    font-size: 20px;
+}
+
+.text-large {
+    font-size: 200%;
 }
